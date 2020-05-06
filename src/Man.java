@@ -4,7 +4,7 @@
  * @generated
  */
 
-public abstract class Man
+public abstract class Person
 {
 	/**
 	 * <!-- begin-user-doc -->
@@ -41,7 +41,7 @@ public abstract class Man
 	 * @ordered
 	 */
 	
-	public Man(String firstName, String lastName, String phoneNumber) {
+	public Person(String firstName, String lastName, String phoneNumber) {
 		super();
 		// TODO construct me	
 	}

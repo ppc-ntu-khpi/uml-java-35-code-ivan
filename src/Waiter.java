@@ -4,7 +4,7 @@
  * @generated
  */
 
-public class Waiter extends Man
+public class Waiter extends Person
 {
 	/**
 	 * <!-- begin-user-doc -->

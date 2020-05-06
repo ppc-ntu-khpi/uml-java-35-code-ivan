@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * @generated
  */
 
-public class Customer extends Man
+public class Customer extends Person
 {
 	/**
 	 * <!-- begin-user-doc -->
