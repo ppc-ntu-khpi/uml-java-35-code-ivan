@@ -35,7 +35,7 @@ public class Waiter extends Person
 	 * @ordered
 	 */
 	
-	public void takeOrder() {
+	public void takeOrder(Order order) {
 		// TODO implement me	
 	}
 	
